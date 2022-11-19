@@ -1,16 +1,8 @@
-# online_course_selling_app
+# Course Selling Android/iOS App - Flutter
 
-A new Flutter project.
 
-## Getting Started
+We have designed an application for you guys. This is an online course-selling app. This optimized UI will help you to understand the basic thing of Flutter.
 
-This project is a starting point for a Flutter application.
+## Course Selling Android/iOS App using Flutter
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Preview](assets/screenshots/thumbnail.png)
